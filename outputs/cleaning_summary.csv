@@ -1,0 +1,7 @@
+metric,value
+original_rows,146760
+original_columns,41
+cleaned_rows,146760
+cleaned_columns,41
+duplicates_removed,0
+normalized_numeric_columns,28
