@@ -12,13 +12,17 @@ For this assignment, I focused on building a complete data science workflow: cle
 By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto, as we grant aspiring and experienced PMs what they need most – Access. 
 We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of AI product management skills.
 
-More info on: `https://www.pmaccelerator.io/about-us` and `https://www.linkedin.com/school/pmaccelerator/`
+More info on: https://www.pmaccelerator.io/about-us and https://www.linkedin.com/school/pmaccelerator/
 
 ## Author
 
 **Sonali Lonkar**  
 AI Engineer Intern Technical Assessment  
 Completed: Basic & Advanced Assessment - Tech Assessment: Weather Trend Forecasting
+
+## Demo Video
+
+[Watch the project demo video](https://drive.google.com/file/d/15iL0YQDuWIyF-KDuI5EFg-Ht_IB1MQ89/view?usp=sharing)
 
 ## Dataset
 
@@ -45,6 +49,7 @@ weather_trend_forecasting_project/
 ├── data/GlobalWeatherRepository.csv        # Kaggle CSV 
 ├── notebooks/01_exploration.ipynb          # Exploratory notebook 
 ├── outputs/                                # Generated CSVs and figures
+├── reports/Final_report.pdf                # Final Project Report
 └── src/
     ├── advanced_analysis.py                # Advanced analyses
     ├── data_cleaning.py                    # Loading, cleaning, preprocessing
@@ -353,13 +358,6 @@ python main.py --data data/GlobalWeatherRepository.csv
 streamlit run app.py
 ```
 
----
-
-## Demo Video URL
-
-```text
-Demo video: `https://drive.google.com/file/d/15iL0YQDuWIyF-KDuI5EFg-Ht_IB1MQ89/view?usp=sharing`
-```
 ---
 
 ## License
