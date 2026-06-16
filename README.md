@@ -362,4 +362,4 @@ streamlit run app.py
 
 ## License
 
-This project is available for evaluation and learning purposes.
+This project is open source and available under the [MIT License](LICENSE).
